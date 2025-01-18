@@ -45,13 +45,13 @@ api = "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=YOUR
 
 # 📂 Project Structure  
 This is the structure of the project folder:  
-weather-app/
-│
-├── README.md              # Project description and instructions
-├── weather_app.py         # Main Python application file (Tkinter GUI)
-├── images.png             # Parts of the main window
-├── images/                # Folder containing images
-│   └── screenshot.png     # Example screenshots
+weather-app/  
+│  
+├── README.md              # Project description and instructions  
+├── weather_app.py         # Main Python application file (Tkinter GUI)  
+├── images.png             # Parts of the main window  
+├── images/                # Folder containing images  
+│   └── screenshot.png     # Example screenshots  
 
 
 # Screenshots 📸
